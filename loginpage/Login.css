@@ -1,5 +1,6 @@
 
 
-header {
-    background: linear-gradient(to right, #ff7e5f, #feb47b); /* Gradient from pink to orange */
+.my-element {
+    background-color: #f0f0f0; /* Light gray background */
+    border: 2px solid #333;   /* Solid dark gray border */
 }
